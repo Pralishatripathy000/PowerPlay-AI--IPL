@@ -1,0 +1,40 @@
+match_id,date,team1,team2,venue,toss_winner,toss_decision,actual_winner,predicted_winner,prediction_correct
+1,"March 28, 2026",Royal Challengers Bengaluru,Sunrisers Hyderabad,M Chinnaswamy Stadium,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Royal Challengers Bengaluru,True
+2,"March 29, 2026",Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai Indians,field,Mumbai Indians,Mumbai Indians,True
+3,"March 30, 2026",Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,field,Rajasthan Royals,Chennai Super Kings,False
+4,"March 31, 2026",Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,field,Punjab Kings,Punjab Kings,True
+5,"April 01, 2026",Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,field,Delhi Capitals,Lucknow Super Giants,False
+6,"April 02, 2026",Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata Knight Riders,field,Sunrisers Hyderabad,Kolkata Knight Riders,False
+7,"April 03, 2026",Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk",Punjab Kings,field,Punjab Kings,Chennai Super Kings,False
+8,"April 04, 2026",Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi Capitals,field,Delhi Capitals,Mumbai Indians,False
+9,"April 04, 2026",Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,bat,Rajasthan Royals,Gujarat Titans,False
+10,"April 05, 2026",Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal",Lucknow Super Giants,field,Lucknow Super Giants,Sunrisers Hyderabad,False
+11,"April 05, 2026",Royal Challengers Bengaluru,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings,field,Royal Challengers Bengaluru,Royal Challengers Bengaluru,True
+12,"April 06, 2026",Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",Kolkata Knight Riders,bat,,Kolkata Knight Riders,False
+13,"April 07, 2026",Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",Mumbai Indians,field,Rajasthan Royals,Rajasthan Royals,True
+14,"April 08, 2026",Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",Delhi Capitals,field,Gujarat Titans,Delhi Capitals,False
+15,"April 09, 2026",Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",Lucknow Super Giants,field,Lucknow Super Giants,Lucknow Super Giants,True
+16,"April 10, 2026",Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,field,Rajasthan Royals,Rajasthan Royals,True
+17,"April 11, 2026",Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,field,Punjab Kings,Punjab Kings,True
+18,"April 11, 2026",Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,field,Chennai Super Kings,Chennai Super Kings,True
+19,"April 12, 2026",Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,field,Gujarat Titans,Gujarat Titans,True
+20,"April 12, 2026",Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",Mumbai Indians,field,Royal Challengers Bengaluru,Mumbai Indians,False
+21,"April 13, 2026",Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,True
+22,"April 14, 2026",Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,field,Chennai Super Kings,Chennai Super Kings,True
+23,"April 15, 2026",Royal Challengers Bengaluru,Lucknow Super Giants,M Chinnaswamy Stadium,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Royal Challengers Bengaluru,True
+24,"April 16, 2026",Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",Punjab Kings,field,Punjab Kings,Punjab Kings,True
+25,"April 17, 2026",Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,bat,Gujarat Titans,Gujarat Titans,True
+26,"April 18, 2026",Royal Challengers Bengaluru,Delhi Capitals,M Chinnaswamy Stadium,Delhi Capitals,field,Delhi Capitals,Delhi Capitals,True
+27,"April 18, 2026",Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Chennai Super Kings,field,Sunrisers Hyderabad,Sunrisers Hyderabad,True
+28,"April 19, 2026",Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Rajasthan Royals,bat,Kolkata Knight Riders,Kolkata Knight Riders,True
+29,"April 19, 2026",Punjab Kings,Lucknow Super Giants,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Lucknow Super Giants,field,Punjab Kings,Punjab Kings,True
+30,"April 20, 2026",Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,field,Mumbai Indians,Gujarat Titans,False
+31,"April 21, 2026",Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,True
+32,"April 22, 2026",Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,field,Lucknow Super Giants,Lucknow Super Giants,True
+33,"April 23, 2026",Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,False
+34,"April 24, 2026",Royal Challengers Bengaluru,Gujarat Titans,M Chinnaswamy Stadium,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Gujarat Titans,False
+35,"April 25, 2026",Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",Delhi Capitals,bat,Punjab Kings,Punjab Kings,True
+36,"April 25, 2026",Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,field,Sunrisers Hyderabad,Rajasthan Royals,False
+37,"April 26, 2026",Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,field,Gujarat Titans,Chennai Super Kings,False
+38,"April 26, 2026",Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,field,Kolkata Knight Riders,Kolkata Knight Riders,True
+39,"April 27, 2026",Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,Royal Challengers Bengaluru,True
