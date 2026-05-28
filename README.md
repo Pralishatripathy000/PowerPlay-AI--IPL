@@ -52,6 +52,8 @@ XGBoost and CatBoost were compared against each other — not just basic algorit
 **4. Production Architecture, Not Just a Notebook**
 The system includes a FastAPI backend with a `/predict` REST endpoint, model serialization via Joblib, and a live React/Lovable dashboard — making it a deployable sports analytics product, not just a Jupyter experiment.
 
+💡 The 2026 external test used an incomplete dataset (39 matches, limited depth compared to the ball-by-ball training data). The model's engineered features depend on rich ball-by-ball inputs — when those are shallow, predictions naturally drop. The 92% historical accuracy on the full dataset is the more representative benchmark. The 2026 test was included purely for real-world generalization transparency, not as the primary evaluation.
+
 ### 💛 Built with Cricket Passion
 
 This project was also built out of genuine love for IPL and cricket. As an RCB fan, the idea started as a fun side project to explore how machine learning could interpret match momentum and pressure in one of the most unpredictable T20 leagues in the world. With the **IPL Final on 31 May**, the timing felt perfect to blend cricket excitement with real ML engineering.
