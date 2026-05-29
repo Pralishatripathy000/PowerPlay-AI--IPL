@@ -1,3 +1,6 @@
+import json
+from pathlib import Path
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -37,6 +40,18 @@ class MatchInput(BaseModel):
 def home():
     return {
         "message": "PowerPlay AI Backend is running"
+    }
+
+
+@app.get("/points-table")
+def get_points_table():
+    file_path = Path(__file__).parent / "DATA" / "points_table.json"
+
+    with open(file_path, "r", encoding="utf-8") as file:
+        points_table = json.load(file)
+
+    return {
+        "points_table": points_table
     }
 
 

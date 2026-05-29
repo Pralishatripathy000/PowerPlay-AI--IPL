@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "team": "RCB",
+    "played": 14,
+    "won": 9,
+    "lost": 5,
+    "nrr": "+0.783",
+    "points": 18
+  },
+  {
+    "rank": 2,
+    "team": "GT",
+    "played": 14,
+    "won": 9,
+    "lost": 5,
+    "nrr": "+0.695",
+    "points": 18
+  },
+  {
+    "rank": 3,
+    "team": "SRH",
+    "played": 14,
+    "won": 9,
+    "lost": 5,
+    "nrr": "+0.524",
+    "points": 18
+  },
+  {
+    "rank": 4,
+    "team": "RR",
+    "played": 14,
+    "won": 8,
+    "lost": 6,
+    "nrr": "+0.189",
+    "points": 16
+  },
+  {
+    "rank": 5,
+    "team": "PBKS",
+    "played": 14,
+    "won": 7,
+    "lost": 6,
+    "nrr": "+0.309",
+    "points": 15
+  },
+  {
+    "rank": 6,
+    "team": "DC",
+    "played": 14,
+    "won": 7,
+    "lost": 7,
+    "nrr": "-0.651",
+    "points": 14
+  },
+  {
+    "rank": 7,
+    "team": "KKR",
+    "played": 14,
+    "won": 6,
+    "lost": 7,
+    "nrr": "-0.147",
+    "points": 13
+  },
+  {
+    "rank": 8,
+    "team": "CSK",
+    "played": 14,
+    "won": 6,
+    "lost": 8,
+    "nrr": "-0.345",
+    "points": 12
+  },
+  {
+    "rank": 9,
+    "team": "MI",
+    "played": 14,
+    "won": 4,
+    "lost": 10,
+    "nrr": "-0.584",
+    "points": 8
+  },
+  {
+    "rank": 10,
+    "team": "LSG",
+    "played": 14,
+    "won": 4,
+    "lost": 10,
+    "nrr": "-0.740",
+    "points": 8
+  }
+]
